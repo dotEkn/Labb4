@@ -6,6 +6,14 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
+
+/*
+Jag har använt mig av Läroboken - PRO C# 10 with .NET 6 Andrew Troelsen
+CHATGPT, för att bolla idéer och klura ut olika funktioner som inte funkat (ofast bara en felskrivning eller en måsvinge som var fel..)
+Min studiekamrat Vili Mujkanovic, där vi har bollat idéer och utbytt information för att försöka lösa uppgiften. (Inget avskrivet, mer problemlösning).
+W3Schools.
+Rikard Lands Powerpoints (<3).
+*/
 namespace Labb4
 {
     internal class Program
